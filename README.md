@@ -1,6 +1,6 @@
 
 ## Information Recognition Model - verbal
-#### - To recognize a user's emotional state based on verbal information in the utterance
+#### - To recognize a user's emotional/sentimental state based on verbal information in the utterance
 
 
 ----------------------------------
