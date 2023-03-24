@@ -112,6 +112,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-
-# python eval_model.py --data_path ./datasets/복합대화_감성분석_데이터세트/문장 단위 감성 말뭉치/모델 학습 및 평가 데이터(최종)/test_data.csv --batch_size 16  --model_type T5-mean-m
