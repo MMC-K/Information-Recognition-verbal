@@ -33,12 +33,12 @@ The sentence-level sentiment label data set was used, and the model and training
 
 
 
-#### 모델 학습 환경
+#### model train environment
 - OS : Ubuntu 20.04.4 LTS
 - CPU : Intel(R) Xeon(R) W-2245 CPU @ 3.90GHz
 - GPU : TITAN-XP (12GB)
 
-#### 하이퍼 파라미터
+#### Hyper parameter
 - optimizer : Adafactor
 - learning rate :0.001
 - batch size : 16
