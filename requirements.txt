@@ -2,3 +2,4 @@ transformers
 sentencepiece
 tensorboardX
 tqdm
+gdown
