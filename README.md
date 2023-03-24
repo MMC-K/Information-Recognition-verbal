@@ -47,7 +47,7 @@ The sentence-level sentiment label data set was used, and the model and training
 - decay_rate = -0.8
 - clip_threshold = 1.0
 
-#### 기타
-- 모델 학습 파라미터(weight값)은 아래 디렉토리 저장하였습니다.
+#### etc
+- The model training parameters (weight values) is in the directory below.
 
     (./model/T5-mean-m_KETI-AIR_ke-t5-base_default/weights/best.pth)
