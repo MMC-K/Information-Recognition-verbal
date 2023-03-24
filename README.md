@@ -48,6 +48,6 @@ The sentence-level sentiment label data set was used, and the model and training
 - clip_threshold = 1.0
 
 #### etc
-- The model training parameters (weight values) is in the directory below.
+- The model parameters (weight values) is in the directory below.
 
     (./model/T5-mean-m_KETI-AIR_ke-t5-base_default/weights/best.pth)
