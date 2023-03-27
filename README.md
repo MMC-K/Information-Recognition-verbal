@@ -33,7 +33,7 @@ The sentence-level sentiment label data set was used, and the model and training
 
 
 
-#### model train environment
+#### Model train environment
 - OS : Ubuntu 20.04.4 LTS
 - CPU : Intel(R) Xeon(R) W-2245 CPU @ 3.90GHz
 - GPU : TITAN-XP (12GB)
